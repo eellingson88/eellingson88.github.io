@@ -1,0 +1,26 @@
+body {
+  color: white;
+  background-image: url(http://tidalvisionusa.com/wp-content/uploads/2015/05/ocean-floor-background.png);background-repeat: no-repeat; background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  font-family: fantasy;
+  font-size: 22;
+}
+p{
+  width: 50%;
+  vertical-align: top;
+  margin: 0px;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+a{
+  color: black;
+}
+h1 a {
+  color: white;
+  text-decoration: none;
+}

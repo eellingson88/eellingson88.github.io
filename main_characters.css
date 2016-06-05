@@ -1,0 +1,22 @@
+article {
+  width: 31%;
+  display: inline-block;
+  padding: 1%;
+  margin: 1%;
+  vertical-align: top;
+}
+section {
+  width: calc(100%-100px);
+  display: inline-block;
+  align-content: space-around;
+}
+img {
+  height: auto;
+  width: 50%;
+  min-width: 150px;
+  max-width: 100%;
+  padding: 10px;
+}
+h3 {
+  align-content: center;
+}

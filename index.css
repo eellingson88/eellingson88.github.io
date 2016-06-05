@@ -1,0 +1,14 @@
+header h2{
+  font-style: italic;
+  margin: 40px;
+  margin-top: auto;
+​
+}
+.navitem{
+  display: inline;
+  margin-left:200px;
+  font-size: 30;
+  font-style: bold;
+  align-items: center;
+
+}
