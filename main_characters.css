@@ -1,6 +1,9 @@
 body {
   color: white;
-  background-image: url(http://tidalvisionusa.com/wp-content/uploads/2015/05/ocean-floor-background.png);
+  background-image: url(http://tidalvisionusa.com/wp-content/uploads/2015/05/ocean-floor-background.png);background-repeat: no-repeat; background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
 }
 article {
   width: calc(33% - 60px);
