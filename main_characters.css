@@ -20,3 +20,7 @@ img {
 h3 {
   align-content: center;
 }
+h1 a {
+  color: white;
+  text-decoration: none;
+}
