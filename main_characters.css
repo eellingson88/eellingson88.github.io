@@ -1,22 +1,35 @@
-article {
-  width: 31%;
-  display: inline-block;
-  padding: 1%;
-  margin: 1%;
-  vertical-align: top;
+body {
+  color: white;
+  background-image: url(http://tidalvisionusa.com/wp-content/uploads/2015/05/ocean-floor-background.png);
 }
-section {
-  width: calc(100%-100px);
+article {
+  width: calc(33% - 60px);
   display: inline-block;
-  align-content: space-around;
+  padding: 30px;
+  vertical-align: top;
+  text-align: center;
+}
+p {
+  text-align: justify;
+  border: 2px;
+  border-color: black;
 }
 img {
   height: auto;
-  width: 50%;
-  min-width: 150px;
+  /*width: calc(25%-60px);*/
+  width: 65%;
+  min-width: 100px;
   max-width: 100%;
-  padding: 10px;
+  padding: 25px;
 }
 h3 {
-  align-content: center;
+  text-align: center;
+}
+.navitem{
+  display: inline;
+  margin:center;
+  font-size: 30;
+  margin: calc(25%-60px);
+  font-style: bold;
+  align-items: center;
 }
