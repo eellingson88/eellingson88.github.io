@@ -1,0 +1,98 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+   width: 100%;
+   height: 100%;
+   background-color: grey
+}
+​
+header {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 50;
+    display: block;
+    text-align: center;
+    border-style: ridge;
+    border-width: 5px;
+}
+nav {
+    float: left;
+}
+nav ul {
+    padding: ;
+    float: left;
+    border-bottom: ;
+    list-style-type: none;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    height: 25px;
+    padding: 12px 18px 8px 18px;
+    vertical-align: middle;
+}
+a {
+    color: ;
+}
+section {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+}
+aside {
+    width: 17%;
+    display: inline-block;
+    background-color:;
+    padding:;
+    min-height: 100%;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:;
+    color: white;
+    font-size: 40;
+    clear: both;
+    display: block;
+}
+article {
+    display: inline-block;
+    width: 100%;
+    float: center;
+    border-style: groove;
+    border-color: grey
+    border-width: 10px;
+    background-image:url("background.jpg");
+    background-position: center;
+}
+img {
+    float: center;
+    display: inline-block;
+    padding: 10px;
+}
+h1 {
+  font-size: 50;
+  color: white;
+}
+h2 {
+  font-size: 30;
+  color: white;
+}
+h3 {
+  font-size: 30;
+  color: white;
+}
+p {
+  font-size: 22;
+  color: white;
+  padding-left: 200px;
+  padding-right: 200px;
+}
