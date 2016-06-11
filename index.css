@@ -17,7 +17,7 @@ html {
         display: block;
         text-align: center;
         color: white;
-        background-color: black;
+      
         float: left;
     }
     nav {
@@ -51,7 +51,7 @@ html {
       text-align: center;
     }
     h1 {
-      font-size: 75px;
+      font-size: 100px;
         }
     h2{
       font-size: 60px;
